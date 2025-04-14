@@ -1,2 +1,2 @@
-# goit-markup-hw-05
-Maksym Yurchenko homework5
+# goit-markup-hw-06
+Maksym Yurchenko homework6
